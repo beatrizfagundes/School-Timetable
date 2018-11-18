@@ -1,0 +1,18 @@
+2
+MAT 1
+4 4 4
+PORT 2
+2 2 4
+6
+ProfMAT1 1 4 1 0
+1 0 1 0 1
+ProfMAT2 2 4 1 1
+0 1 0 1 0
+ProfMAT3 3 4 1 2
+1 0 1 0 1
+ProfPT1 4 2 2 0
+0 1 0 1 0
+ProfPT2 5 2 2 1
+1 0 1 0 1
+ProfPT3 6 4 2 2
+0 1 0 1 0

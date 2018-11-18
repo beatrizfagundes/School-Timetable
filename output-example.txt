@@ -1,0 +1,27 @@
+Total de 12 materias e 34 professores
+Serie: 1
+
+|  QUI       ||  HIST      ||  SOC       ||  MAT       ||  FIS       |
+|  QUI       ||  HIST      ||  SOC       ||  MAT       ||  FIS       |
+|  BIO       ||  GEO       || EDFIS      ||  MAT       ||  PORT      |
+|  BIO       ||  GEO       || EDFIS      ||  MAT       ||  PORT      |
+|  ING       ||  FIL       ||  ART       ||  FIS       ||  PORT      |
+|  ING       ||  FIL       ||  ART       ||  FIS       ||  PORT      |
+Serie: 2
+
+|  QUI       ||  HIST      ||  SOC       ||  MAT       ||  FIS       |
+|  QUI       ||  HIST      ||  SOC       ||  MAT       ||  FIS       |
+|  BIO       ||  GEO       || EDFIS      ||  MAT       ||  PORT      |
+|  BIO       ||  GEO       || EDFIS      ||  MAT       ||  PORT      |
+|  ING       ||  FIL       ||  ART       ||  FIS       ||  PORT      |
+|  ING       ||  FIL       ||  ART       ||  FIS       ||  PORT      |
+Serie: 3
+
+|  ING       ||  FIL       ||  MAT       ||  QUI       ||  BIO       |
+|  ING       ||  FIL       ||  MAT       ||  QUI       ||  BIO       |
+|  HIST      ||  SOC       ||  FIS       ||  QUI       ||  PORT      |
+|  HIST      ||  SOC       ||  FIS       ||  QUI       ||  PORT      |
+|  GEO       ||  MAT       ||  FIS       ||  BIO       ||  PORT      |
+|  GEO       ||  MAT       ||  FIS       ||  BIO       ||  PORT      |
+
+Aulas alocadas: 90
