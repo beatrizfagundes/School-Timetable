@@ -1,5 +1,5 @@
-﻿This is a project for the Artificial Intelligence discipline. 
-Students: Beatriz Fagundes, .ichell Queiroz, Junot Neto.
+﻿This is a project for the Artificial Intelligence course. 
+Students: Beatriz Fagundes, Michell Queiroz, Junot Neto.
 Motivation: School timetable construction with AI techniques. 
 Search Techniques: Uninformed/blind (cega.cpp) and Informed (heuristica.cpp) search 
 1. Codes generated in C++. Compile and run: 
